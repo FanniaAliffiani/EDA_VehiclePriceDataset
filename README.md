@@ -6,7 +6,6 @@ The dataset is obtained from kaggle and includes various features of vehicles su
 - Handle missing values and duplicates
 - Detect and remove outliers
 - Perform encoding on categorical data
-- Visualize key insights
 ## Tools used
 - Python (Pandas)
 - Google colab
