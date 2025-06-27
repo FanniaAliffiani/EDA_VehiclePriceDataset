@@ -1,5 +1,5 @@
 # EDA_VehiclePriceDataset
-* Exploratory Data Analysis on Vehicle Price from Kaggle *
+Exploratory Data Analysis on Vehicle Price from Kaggle. 
 This project is part of DSF dibimbing.id.
 The dataset is obtained from kaggle and includes various features of vehicles such as price, year, fuel, mileage, transmission, etc.
 ## Project Goals
